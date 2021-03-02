@@ -89,28 +89,76 @@
 
 
     const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "1. Nitrogen purging should be done:", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "Before switching on the light source", ///// Write the option 1 inside double quotes
+                b: "After switching on the light source", ///// Write the option 2 inside double quotes
+		c: "Any time during the measurement", ///// Write the option 1 inside double quotes
+                b: "None of the above are correct", ///// Write the option 2 inside double quotes
             },
             correctAnswer: "a" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
+      question: "2. Reason for purging Nitrogen in the chamber of the CD spectrometer is: ",  ///// Write the question inside double quotes
       answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
+        a: "Nitrogen is an inert gas.",  ///// Write the option 1 inside double quotes
+        b: "Oxygen present may be converted to ozone by far-UV light from the high intensity arc, and ozone will damage optical surfaces", ///// Write the option 2 inside double quotes
+        c: "Nitrogen Gas(N2)makes up 78.03% of the air.",
+	d: "None of the above are correct"
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
+			 
+     {
+      question: "3. Why it is essential to run a blank spectrum with buffer or solvent system before measuring the spectrum for sample:  ",  ///// Write the question inside double quotes
+      answers: {
+        a: "In order to check that the absorbance and High Tension voltage is not excessive.",  ///// Write the option 1 inside double quotes
+        b: "To measure the absorbance of buffer.", ///// Write the option 2 inside double quotes
+        c: "Selection of good buffer.",
+	d: "All of the above are correct"
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    },			 
 
-        
+
+     {
+      question: "4. Why the regulation of temperature of the cell holder is important:  ",  ///// Write the question inside double quotes
+      answers: {
+        a: "Why the regulation of temperature of the cell holder is important: ",  ///// Write the option 1 inside double quotes
+        b: "To keep the sample in homogenized state and avoid sample denaturation.", ///// Write the option 2 inside double quotes
+        c: "To maintain the temperature of the buffer or solvent used.",
+	d: "None of the above are correct."
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+     },
+
+
+     {
+      question: "5. How much time is required for the machine to warm up and achieve stability ",  ///// Write the question inside double quotes
+      answers: {
+        a: "1 min",  ///// Write the option 1 inside double quotes
+        b: "10 min", ///// Write the option 2 inside double quotes
+        c: "15 min",
+	d: "30 min"
+      },
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
+    },			 
+
+
+      {
+      question: "6. The optimum path length generally required for: ",  ///// Write the question inside double quotes
+      answers: {
+        a: "Far UV CD spectra.",  ///// Write the option 1 inside double quotes
+        b: "Near UV CD spectra.", ///// Write the option 2 inside double quotes
+        c: "None of the above are correct.",
+	d: "Both (A) and (B) are correct."
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    }			 
+			 
     ];
-
-
 
 
     /////////////////////////////////////////////////////////////////////////////

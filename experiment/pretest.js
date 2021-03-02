@@ -89,24 +89,61 @@
 
 
      const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "1. CD spectrometer can be operated in the following region of electromagnetic spectrum", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "UV region only", ///// Write the option 1 inside double quotes
+                b: "Visible region only", ///// Write the option 2 inside double quotes
+   	        c: "Both UV and Visible regions", ///// Write the option 1 inside double quotes
+                d: "IR only", ///// Write the option 2 inside double quotes
             },
-            correctAnswer: "a" ///// Write the correct option inside double quotes
+            correctAnswer: "c" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
+      question: "2. Circular dichroism (CD) spectroscopy measures differences in the absorption of left-handed polarized light versus right-handed polarized light which arise due to :",  ///// Write the question inside double quotes
       answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
+        a: "Structural symmetry.",                  ///// Write the option 1 inside double quotes
+        b: "Structural asymmetry.",                  ///// Write the option 2 inside double quotes
+        c: "Both (a) and (b)",
+	d: "Absence of regular structure", 
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    },
+
+    {			  
+     question: "3. CD spectrometer is useful in studying: ",  ///// Write the question inside double quotes
+      answers: {
+        a: "Estimation of various secondary structural elements in proteins ",                  ///// Write the option 1 inside double quotes
+        b: "Conformational changes in proteins",                  ///// Write the option 2 inside double quotes
+        c: "Both (a) and (b)",
+	d: "Determination of complete 3-D structure of proteins", 
+      },
       correctAnswer: "c"                ///// Write the correct option inside double quotes
     },
 
+    {			  
+     question: "4. CD spectrum of a protein is sensitive to the: ",  ///// Write the question inside double quotes
+      answers: {
+        a: "Temperature",                  ///// Write the option 1 inside double quotes
+        b: "pH",                  ///// Write the option 2 inside double quotes
+        c: "Buffer type and concentration",
+	d: "All of the above", 
+      },
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
+     
 
+   },
+
+    {
+     question: "5. A CD spectrum can exhibit :",  ///// Write the question inside double quotes
+      answers: {
+        a: "Positive peaks only",                  ///// Write the option 1 inside double quotes
+        b: "Negative peaks only",                  ///// Write the option 2 inside double quotes
+        c: "Both (a) and (b)",
+	d: "Neither positive nor Negative peaks", 
+      },
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
+ }
 
      ];
 
