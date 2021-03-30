@@ -1,4 +1,4 @@
- The objective of this experiment is to make the user/student understand the working of CD spectrometer, its different parts and how to set the important parameters related to CD spectrometer initialization and spectrum measurement.Unfortunately, it is not always clear that such instruments are being used to their best advantage so the aim of this experiment is to provide a brief summary of the CD spectrometer functioning and some important practical aspects of performing CD experiments.
+The objective of this experiment is to make the user/student understand the working of CD spectrometer, its different parts and how to set the important parameters related to CD spectrometer initialization and spectrum measurement.Unfortunately, it is not always clear that such instruments are being used to their best advantage so the aim of this experiment is to provide a brief summary of the CD spectrometer functioning and some important practical aspects of performing CD experiments.
 
 This experiment have three modules:
 
