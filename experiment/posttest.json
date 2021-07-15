@@ -1,0 +1,59 @@
+[
+{"question":"1. Nitrogen purging should be done:", 
+"answers": {
+           "a": "Before switching on the light source", 
+           "b": "After switching on the light source", 
+           "c": "Any time during the measurement",
+           "d": "None of the above are correct" 
+            },
+"correctAnswer":"a" },
+
+{"question":"2. Reason for purging Nitrogen in the chamber of the CD spectrometer is: ",  
+"answers": {
+            "a":"Nitrogen is an inert gas.",  
+            "b":"Oxygen present may be converted to ozone by far-UV light from the high intensity arc, and ozone will damage optical surfaces", 
+            "c":"Nitrogen Gas(N2)makes up 78.03% of the air.",
+	    "d":"None of the above are correct"
+            },
+"correctAnswer": "b"},
+
+{"question":"3. Why it is essential to run a blank spectrum with buffer or solvent system before measuring the spectrum for sample:",  
+"answers": {
+           "a":"In order to check that the absorbance and High Tension voltage is not excessive.",  
+           "b": "To measure the absorbance of buffer.", 
+           "c": "Selection of good buffer.",
+	   "d": "All of the above are correct"
+           },
+"correctAnswer": "a"},			
+
+{
+"question": "4. Why the regulation of temperature of the cell holder is important:  ", 
+"answers": {
+            "a": "Why the regulation of temperature of the cell holder is important: ",  
+            "b": "To keep the sample in homogenized state and avoid sample denaturation.", 
+            "c": "To maintain the temperature of the buffer or solvent used.",
+	    "d": "None of the above are correct."
+           },
+"correctAnswer": "b" },
+
+{
+"question": "5. How much time is required for the machine to warm up and achieve stability ", 
+"answers": {
+            "a":"1 min", 
+            "b":"10 min", 
+            "c":"15 min",
+	    "d":"30 min"
+      },
+"correctAnswer": "d"  },			 
+
+{
+"question": "6. The optimum path length generally required for: ", 
+"answers": {
+            "a":"Far UV CD spectra.",  
+            "b":"Near UV CD spectra.", 
+            "c":"None of the above are correct.",
+	    "d":"Both (A) and (B) are correct."
+           },
+"correctAnswer":"a"   } 
+			 
+]
