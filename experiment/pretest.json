@@ -1,0 +1,52 @@
+[
+{
+"question": "1. CD spectrometer can be operated in the following region of electromagnetic spectrum", 
+"answers": {
+            "a": "UV region only", 
+            "b": "Visible region only", 
+   	    "c": "Both UV and Visible regions",
+            "d": "IR only", 
+            },
+"correctAnswer": "c"  },
+
+{
+"question": "2. Circular dichroism (CD) spectroscopy measures differences in the absorption of left-handed polarized light versus right-handed polarized light which arise due to :", 
+"answers": {
+            "a": "Structural symmetry.",
+            "b": "Structural asymmetry.",  
+            "c": "Both (a) and (b)",
+	    "d": "Absence of regular structure" 
+      },
+"correctAnswer": "b" },
+
+{			  
+"question":"3. CD spectrometer is useful in studying: ",  
+"answers": {
+            "a": "Estimation of various secondary structural elements in proteins ",
+            "b": "Conformational changes in proteins", 
+            "c": "Both (a) and (b)",
+	    "d": "Determination of complete 3-D structure of proteins",
+      },
+"correctAnswer": "c" },
+
+{			  
+"question": "4. CD spectrum of a protein is sensitive to the: ", 
+"answers": {
+            "a":"Temperature",
+            "b":"pH",                 
+            "c":"Buffer type and concentration",
+	    "d":"All of the above"
+           },
+"correctAnswer": "d"},
+
+{
+"question": "5. A CD spectrum can exhibit :", 
+"answers": {
+            "a": "Positive peaks only", 
+            "b": "Negative peaks only",
+            "c": "Both (a) and (b)",
+	    "d": "Neither positive nor Negative peaks" 
+      },
+"correctAnswer": "c"  }
+
+]
