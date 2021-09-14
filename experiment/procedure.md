@@ -9,7 +9,7 @@ Step3 : After setting the flow rate now turn on the CD spectrometer by clicking 
 
 Step4 : Now turn on the computer by clicking the CPU power button.
 
-Step5 : Now turn on the water bath by clicking on the power button and set the temperature to 20°C for normal measurement.
+Step5 : Now turn on the water bath by clicking on the power button and set the temperature to 20<sup>&#9900;</sup>C for normal measurement.
 
 Step6 : Now turn on the peltier temperature control(PTC) to regulate the temperature and stirrer revolution for the sample by clicking the power button.After turning on PTC, click the start button to activate the PTC. The PTC has two mode:
 
