@@ -14,6 +14,13 @@
       "content-type": "text"
     },
     {
+      "target": "objective.html",
+      "source": "objective.md",
+      "label": "Objective",
+      "unit-type": "task",
+      "content-type": "text"
+    },
+    {
       "target": "procedure.html",
       "source": "procedure.md",
       "label": "Procedure",
@@ -26,7 +33,7 @@
       "label": "Pretest",
       "unit-type": "task",
       "content-type": "assessment"
-    }
+    },
     {
       "target": "simulation.html",
       "source": "simulation/index.html",
@@ -40,6 +47,13 @@
       "label": "Postest",
       "unit-type": "task",
       "content-type": "assessment"
+    },
+    {
+      "target": "references.html",
+      "source": "references.json",
+      "label": "references",
+      "unit-type": "task",
+      "content-type": "text"
     }
   ]
 }

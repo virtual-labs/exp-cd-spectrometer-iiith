@@ -2,8 +2,6 @@ The objective of this experiment is to make the user/student understand the work
 
 This experiment have three modules:
 
-(1) CD spectrometer initialization:How to set up the CD spectrometer for initialization
-
-(2) Sample preparation:How to prepare a sample for the CD spectrum measurement
-
-(3) Graph section:This section will demonstrate real CD spectra of a protein(Lysozyme) along with a buffer at different concentration and cell length. 
+(1) CD spectrometer initialization:How to set up the CD spectrometer for initialization  
+(2) Sample preparation:How to prepare a sample for the CD spectrum measurement    
+(3) Graph section:This section will demonstrate real CD spectra of a protein(Lysozyme) along with a buffer at different concentration and cell length.   
