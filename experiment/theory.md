@@ -20,15 +20,13 @@ Block diagram of a spectropolarimeter. Plane polarised radiation is produced by 
 
 **L** is the focusing lens to get beam collimated in the sample compartment
 
-**F** is a series of 45<sup>&#9900;</sup>X quartz plates to clean further the monochromatic exit beam polarization
+**F** is a series of 45<sup>o</sup> quartz plates to clean further the monochromatic exit beam polarization
 
-**CDM** is the photoelastic modulator crystal in its thermostatted housing, it acts (in CD mode) as a 1/4 wave achromatic plate, i.e. the linear polarized beam is deflected + and - 45<sup>&#9900;</sup>X at the crystal oscillation frequency (50 KHz)
+**CDM** is the photoelastic modulator crystal in its thermostatted housing, it acts (in CD mode) as a 1/4 wave achromatic plate, i.e. the linear polarized beam is deflected + and - 45<sup>o</sup>X at the crystal oscillation frequency (50 KHz)
 
 **SH** is a mechanical shutter to remove radiation from sample (when needed)
 
 **PM** is the photomultiplier tube detector
-
-
 
 
 
@@ -47,14 +45,14 @@ The measurement of CD requires the generation of a monochromatic probe light bea
 **Initialization of the CD spectrometer**
 
 **(1)Purging the instrument with N2:**
-The need to measure very small signals in the far-UV has been the biggest influence driving improvements in instrument specification over the years and significant increases to the limit of detection and far-UV performance have been achieved. Specifically, the most critical requirement for all CD instruments is to maximise the intensity and quality of circularly polarized light available, particularly in the far-UV, down to what is the experimentally practical limit of 170-175 nm. 190 nm and below is the most demanding region of the spectrum in which the instrument must operate. At this wavelength the instrument must be purged with high-purity oxygen-free nitrogen (approx 3¡V5 L min) for at least 20 min before starting the light source and while making measurements. Any oxygen present may be converted to ozone by far-UV light from the high intensity arc, and ozone will damage optical surfaces. Higher nitrogen flow rates should be used for measurements below 190 nm.
+The need to measure very small signals in the far-UV has been the biggest influence driving improvements in instrument specification over the years and significant increases to the limit of detection and far-UV performance have been achieved. Specifically, the most critical requirement for all CD instruments is to maximise the intensity and quality of circularly polarized light available, particularly in the far-UV, down to what is the experimentally practical limit of 170-175 nm. 190 nm and below is the most demanding region of the spectrum in which the instrument must operate. At this wavelength the instrument must be purged with high-purity oxygen-free nitrogen (approx 3-V5 L min) for at least 20 min before starting the light source and while making measurements. Any oxygen present may be converted to ozone by far-UV light from the high intensity arc, and ozone will damage optical surfaces. Higher nitrogen flow rates should be used for measurements below 190 nm.
 
 **(2)Controlling the temperature of the sample:External water bath and Peltier temperature control**  
-Accurate and repeatable temperature control of the sample is a crucial need for any spectrometer system and even more important with CD due to the heavy use in measurement of biomolecules. In the CD spectrometer generally the circulator water bath(temperature range 20-200¢XC) based peltier temperature control system is used to control the the temperature of sample placed inside the cell. The Peltier thermostatted cell holder which enables temperature control using the temperature control program. It controls the sample temperature to measure the CD spectrum with change in temperature, generally in the range of -10 to +110¢XC .
+Accurate and repeatable temperature control of the sample is a crucial need for any spectrometer system and even more important with CD due to the heavy use in measurement of biomolecules. In the CD spectrometer generally the circulator water bath(temperature range 20-200<sup>o</sup>C) based peltier temperature control system is used to control the the temperature of sample placed inside the cell. The Peltier thermostatted cell holder which enables temperature control using the temperature control program. It controls the sample temperature to measure the CD spectrum with change in temperature, generally in the range of -10 to +110<sup>o</sup>C.
 
 Peltier cooling attachment is based on the Peltier effect(The Peltier effect occurs whenever electrical current flows through two dissimilar conductors(or metals). Depending on the direction of current flow, the junction of the two conductors will either absorb or release heat.)
 
-Cooling, Heating: When DC voltage is applied to the module, the positive and negative charge carriers in the pellet array absorb heat energy from one substrate surface and release it to the substrate at the opposite side. The surface where heat energy is absorbed becomes cold; the opposite surface where heat energy is released, becomes hot. Using this simple approach to "heat pumping," thermoelectric technology is applied to many widely-varied applications¡Xsmall laser diode coolers, portable refrigerators, scientific thermal conditioning, liquid coolers, and beyond.
+Cooling, Heating: When DC voltage is applied to the module, the positive and negative charge carriers in the pellet array absorb heat energy from one substrate surface and release it to the substrate at the opposite side. The surface where heat energy is absorbed becomes cold; the opposite surface where heat energy is released, becomes hot. Using this simple approach to "heat pumping," thermoelectric technology is applied to many widely-varied applications-small laser diode coolers, portable refrigerators, scientific thermal conditioning, liquid coolers, and beyond.
 
 <img src="images/fig2.jpg">
 
@@ -71,10 +69,10 @@ The protein should be free from other aggregates, as aggregated proteins can cau
 
 
 
-Far-UV CD spectra of proteins (260¡V178 nm) are intense and small amounts of material are required to record them. Because all peptide bonds contribute to the spectrum the amount of material required is effectively the same for any protein. Typical quantities are 200 £gL of a 0.1¡V 0.15 mg/mL solution with a 1-mm path length cuvet or 30 £gL of a 1.0¡V1.5 mg/mL solution with a 0.1 mm (demountable) cuvet. The latter is preferable for good far-UV penetration but the material is not generally recoverable.
+Far-UV CD spectra of proteins (260-V178 nm) are intense and small amounts of material are required to record them. Because all peptide bonds contribute to the spectrum the amount of material required is effectively the same for any protein. Typical quantities are 200 μL of a 0.1- 0.15 mg/mL solution with a 1-mm path length cuvet or 30 Â£gL of a 1.0-1.5 mg/mL solution with a 0.1 mm (demountable) cuvet. The latter is preferable for good far-UV penetration but the material is not generally recoverable.
 
 
-Near-UV CD spectra (340¡V255 nm) are much less intense than far-UV spectra and recording them requires more material. Spectra are usually recorded under conditions similar to those used for measuring a conventional absorption spectrum, e.g., use a 10-mm cuvet and aim for an absorbance at 280 nm in the range 0.7¡V1.0. Less-concentrated solutions may be used if the CD signals are intense.
+Near-UV CD spectra (340-255 nm) are much less intense than far-UV spectra and recording them requires more material. Spectra are usually recorded under conditions similar to those used for measuring a conventional absorption spectrum, e.g., use a 10-mm cuvet and aim for an absorbance at 280 nm in the range 0.7-1.0. Less-concentrated solutions may be used if the CD signals are intense.
 
 CD signals will be seriously distorted if too little light reaches the photomultiplier. In practical terms, this means that one cannot make reliable measurements on samples with an absorbance (sample plus solvent) much greater than 1. The absorption spectrum of the sample should always be checked to see if this absorbance limit is exceeded. In far-UV measurements, the absorbance of the protein itself is generally rather small and the major problems arise from absorption by buffer components, almost all of which will limit far-UV penetration to some extent.
 
