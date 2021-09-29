@@ -32,7 +32,7 @@
       "source": "pretest.json",
       "label": "Pretest",
       "unit-type": "task",
-      "content-type": "assessment"
+      "content-type": "assesment"
     },
     {
       "target": "simulation.html",
@@ -46,11 +46,11 @@
       "source": "posttest.json",
       "label": "Postest",
       "unit-type": "task",
-      "content-type": "assessment"
+      "content-type": "assesment"
     },
     {
       "target": "references.html",
-      "source": "references.json",
+      "source": "references.md",
       "label": "references",
       "unit-type": "task",
       "content-type": "text"
