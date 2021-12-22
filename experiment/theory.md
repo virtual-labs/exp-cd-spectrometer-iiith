@@ -83,29 +83,10 @@ The aim in recording CD spectra of good quality is to keep overall absorbance wi
 It is essential to run a blank spectrum with buffer or solvent system alone in order to check that the absorbance and High Tension voltage is not excessive. If that happens then it may be possible to use cells of shorter path length, provided that the concentration of sample can be increased or lower teh concentration of species which is causing problem(e.g. Chloride ions). Selection of buffer provides denaturation of proteins and peptides. The buffers also show cutoffs at a certain point in low wavelength region where they start to absorb after certain point, therefore cutoff values of certain common buffers should be known. Use of optically active buffers should be avoided as it can provide inaccurate results. Therefore clear solutions are required and CD is taken in high transparency quartz cuvettes to ensure least interference.
 
 Buffer components (especially those that contain carboxylates) that have a high absorbance below 200 nm must be avoided (e.g. Tris [tris(hydroxymethyl)aminomethane], dithiothreitol, imidazole, histidine, choloride, etc.). The following table describes the cutoff wavelength (wavelength in which absorbance = 1 for a 1 mm cuvette) for common solvents and buffer components. Cuvettes with short pathlengths are better, since the amount of buffer the light travels through is minimized. The disadvantage of short pathlength cuvettes is the higher concentration of protein which must be used (increased 10-fold relative to a 1 cm cell). Ideally, the buffer concentration is low (< 10 mM).
-Cutoff Wavelengths For Common Solvents and Buffers
 
-|Solvent System        |Cut off (nm)*|
-|----------------------|-------------|
-|Water                 |   <185      |
-|Trifluoroethanol      |   <185      |
-|Hexafluoroisopropanol |   <185      |
-|Acetonitrile 	       |   185       |
-|Methanol 	       |   195       |
-|Ethanol 	       |   196       |
-|2-Propanol 	       |   196       |
-|Cyclohexane 	       |   <185      |
-|Dioxane 	       |   232       |
-|(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> 0.15 M|   191       |
-|NaCl 0.15 M 	       |   196       |
-|NaClO<sub>4</sub> 0.15 M|   <185      |
-|NaNO3 0.15 M 	       |   245       | 
-|Phosphate 100 mM      |   <185      |
-|Tris 100 mM 	       |   195       |
-|Pipes 100 mM 	       |   215       |
-|Mes 100 mM 	       |   205       |
-|GdnHCl 4 M 	       |   210       |
-|Urea 4 M 	       |   210       |
+**Cutoff Wavelengths For Common Solvents and Buffers**
+
+<img src="images/cd-spec1.png">
 
 * For a one mm path length
 
@@ -115,19 +96,11 @@ Cutoff Wavelengths For Common Solvents and Buffers
 (Source:See Ref:4)
 
 
-
-Absorption properties of selected buffer components in the far UV
+**Absorption properties of selected buffer components in the far UV**
 Absorbance (50 mM solution in 0.02 cm pathlength cell)  
-|Buffer   component           |	180nm |	190nm |	200nm |	210nm|
-|-----------------------------|-------|-------|-------|------|
-|NaCl                         |	>0.5  |	>0.5  |	0.02  | 0    |
-|NaF                          |	0     | 0     | 0     | 0    |
-|Na borate(pH 9.1)            |	0.3   |	0.09  | 0     | 0    |
-|Na<sub>2</sub>HPO<sub>4</sub>|	>0.5  | 0.3   | 0.05  | 0    |
-|NaH<sub>2</sub>PO<sub>4</sub>|	0.15  | 0.01  | 0     |	0    |
-|Na acetate                   |	>0.5  | >0.5  | 0.17  | 0.03 |
-|Tris/H<sub>2</sub>SO<sub>4</sub>(pH 8.0)| 	>0.5  | 0.24  |	0.13  |	0.02 |
-|HEPES/Na+ (pH 7.5)| 	>0.5  | >0.5  |	0.5   | 0.37 |
+
+<img src="images/cd-spec2.png">
+
 (Source:See Ref:5)
 
 
@@ -135,11 +108,8 @@ Chloride and carboxylate ions absorb strongly below 195nm. Therefore high concen
 
 **(iii)Sample concentration to be used**
 Solutions should be prepared according to the pathlength of cuvette
-|Cuvette path(cm)| Concentration of sample(mg/ml)|
-|----------------|-------------------------------|
-|0.01-0.02 	 |0.2-1.0                        |
-|0.1 	         |0.05-0.2                       |
-|1 	         |0.005-0.01                     | 
+
+<img src="images/cd-spec3.png">
 
 (Source:See Ref:3)
 
