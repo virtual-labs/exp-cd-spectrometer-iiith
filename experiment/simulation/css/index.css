@@ -40,7 +40,7 @@
   width: 150px;
 }
 #start a {
-  text-decoration: none;
+  text-decoration: underline;
 }
 #n2 {
   margin-left: 30px;
@@ -61,7 +61,7 @@ h5:hover {
 }
 #computer {
   position: fixed;
-padding-left: 117px;
+  padding-left: 117px;
 }
 #cix,
 #cix1,
